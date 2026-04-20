@@ -18,12 +18,20 @@ Fitur utama:
 - Library Database: Npgsql
 - Tools Testing: Swagger
 
----
-
 ## 🚀 Cara Instalasi & Menjalankan Project
 
-Clone Repository :
+Clone Repository : https://github.com/Raafff29/toko
+Akses Swagger (Testing API) : https://localhost:7147/swagger/index.html
 
-### 1. Clone Repository
-```bash
-git clone https://github.com/username/nama-repo.git
+🌐 Daftar Endpoint API :
+
+| Method | URL               | Keterangan                            |
+| ------ | ----------------- | ------------------------------------- |
+| GET    | /api/product      | Mengambil semua data produk           |
+| GET    | /api/product/{id} | Mengambil data produk berdasarkan ID  |
+| POST   | /api/product      | Menambahkan data produk baru          |
+| PUT    | /api/product/{id} | Mengupdate data produk berdasarkan ID |
+| DELETE | /api/product/{id} | Menghapus data produk berdasarkan ID  |
+
+Link Yt : https://youtu.be/OsMQeiZGXQk
+
