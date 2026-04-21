@@ -10,7 +10,7 @@ Fitur utama:
 - Relasi antar tabel (Users, Categories, Products)
 - Response JSON terstruktur
 - Error handling
-- 
+
 ## ⚙️ Teknologi yang Digunakan
 - Bahasa: C#
 - Framework: ASP.NET Core Web API
